@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Elision.MongoDb")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Adds some assistance for working with mongodb and the Elision framework for Sitecore.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Elision.MongoDb")]
